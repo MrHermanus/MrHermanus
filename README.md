@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrHermanus
 - 👀 I’m interested in ..javascript , css as well as html.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently into javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
